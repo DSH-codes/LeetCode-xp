@@ -17,7 +17,4 @@ class Solution:
 
 it = Solution()
 result = it.isAnagram("anagram", "nagaram")
-
 print(result)
-
-x = 1
