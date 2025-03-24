@@ -3,4 +3,4 @@
 
 # About:
 
-A repo to keep my leetcode solutions and track experience  
+A repo to keep my leetcode solutions and to track experience  
