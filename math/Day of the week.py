@@ -1,8 +1,8 @@
-
 # Solved 3/28/2025 
 # Time taken: 23 minutes
 
 import calendar as cd 
+
 
 class Solution:
     def dayOfTheWeek(self, day: int, month: int, year: int) -> str:
@@ -13,5 +13,5 @@ class Solution:
 
 
 it = Solution()
-result = it.dayOfTheWeek(15,8,1993)
+result = it.dayOfTheWeek(15,8,1994)
 print(result)
