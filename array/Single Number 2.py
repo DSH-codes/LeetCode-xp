@@ -1,4 +1,6 @@
 
+# Solved 3/28/2025
+# Time taken: 8:48
 
 class Solution:
     def singleNumber(self, nums: list[int]) -> int:
