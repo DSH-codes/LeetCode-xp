@@ -9,5 +9,5 @@ class Solution:
 
 
 it = Solution()
-result = it.singleNumber([4,1,2,1,2])
+result = it.singleNumber([8,1,1,4,4])
 print(result)
