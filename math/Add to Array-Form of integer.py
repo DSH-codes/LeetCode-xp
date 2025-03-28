@@ -1,6 +1,10 @@
 
+# Solved 3/28/2025
+# Time taken: 10 minutes 
 
-
+# import sys 
+# sys.set_int_max_str_digits()
+# increase max_str if you need 
 
 class Solution:
     def addToArrayForm(self, num: list[int], k: int) -> list[int]:
