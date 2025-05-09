@@ -1,4 +1,6 @@
 
+# Solved in: 5:18 sec. 
+# 5/6/2025 1:13 AM 
 
 class Solution:
     def isPalindrome(self, x: int) -> bool:
