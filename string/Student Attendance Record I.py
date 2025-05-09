@@ -7,7 +7,7 @@ class Solution:
 
         counter = 0
         
-        if s.count("A") > 2:
+        if s.count("A") > 1:
             return False
 
         if "LLL" in s:
