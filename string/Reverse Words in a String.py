@@ -9,10 +9,10 @@ class Solution:
 
         s = s.split()
         s = s[::-1]
-        s = [i + ' ' for i in s]
+        s = [i + ' ' for i in s] # add spaces, to the last word too
         s = "".join(s)
 
-        return s.strip()
+        return s.strip() # to cut off the last space 
 
 
 it = Solution()
