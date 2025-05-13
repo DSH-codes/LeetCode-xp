@@ -1,4 +1,6 @@
-
+# Solved in: 42 m 24 sec
+# Runtime: 21 ms - beats 82.18%
+# Memory: 31.49 mb - beats 53.89% 
 
 
 
