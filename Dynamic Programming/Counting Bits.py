@@ -9,7 +9,7 @@ class Solution:
     def countBits(self, n: int) -> list[int]:
         
         # I will check how to do it manually, using bitwise operators
-        # For i while, enjoy this solution 
+        # For i while, enjoy this solution! 
 
         return [bin(i).count("1") for i in range(n + 1)]
 
