@@ -26,4 +26,4 @@ class Solution:
 
 it = Solution()
 out = it.prefixCount(["pay","attention","practice","attend"], "at")
-print(result)
+print(out)
