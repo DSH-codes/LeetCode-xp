@@ -1,7 +1,7 @@
 
 # https://leetcode.com/problems/jewels-and-stones/submissions/1704659753/?envType=problem-list-v2&envId=string
 # Solved in: 2 m 40 sec 
-# 7/20/2025
+# Date: 7/20/2025
 # Runtime: 0 ms - beats 100%
 # Memory: 17.94 mb - beats 10.47% 
 
