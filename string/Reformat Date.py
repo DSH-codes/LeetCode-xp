@@ -12,7 +12,7 @@
 class Solution:
     def reformatDate(self, date: str) -> str:
         
-        months = [i for i in "Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec".split()]
+        months = "Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec".split()
         
         sdate = date.split()
 
