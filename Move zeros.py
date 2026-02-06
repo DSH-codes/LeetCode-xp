@@ -12,3 +12,6 @@ x = [0,1,0,3,12]
 it = Solution()
 it.moveZeroes(x)
 print(x)
+
+print(dir(str))
+help(str.rstrip)
